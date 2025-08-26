@@ -16,7 +16,6 @@
 
 ---
 
-
 <table>
 <tr>
 <td width="30%">
@@ -37,8 +36,7 @@ const suryansh = {
     currentlyWorking: [
         "Problem-Solving (230+ Qs on LeetCode & GFG)",
         "Real-time Collaboration Platform (DocsG)",
-        "Campus Grievance System (InsConnect)",
-        "System Design & Scalable Architectures"
+        "Campus Grievance System (InsConnect)"
     ],
 
     getDreamJob: () => {
@@ -125,17 +123,30 @@ const suryansh = {
 ## Developer Philosophy
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20error%20message%20is%20the%20one%20that%20never%20shows%20up&author=Thomas%20Fuchs" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" />
+</div>
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Code.+Create.+Innovate.;Debugging+is+where+magic+happens.;Problem+solving+fuels+my+journey.;Building+tools+that+empower+developers." alt="Typing SVG" />
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Thank%20you%20for%20visiting&fontSize=24&fontColor=fff&fontAlignY=65&desc=Let's%20connect%20and%20build%20innovative%20solutions%20together&descSize=16&descAlignY=80"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,24&height=120&section=footer&text=%20Thanks%20for%20visiting!&fontSize=24&fontColor=fff&fontAlignY=65&desc=%20Drop%20a%20⭐%20if%20you%20like%20my%20profile!&descSize=16&descAlignY=85" />
+</p>
+
+
+<!-- Footer Text -->
+<p align="center">
+  <sub>✨ Crafted with passion & creativity — Let's connect and innovate together! ✨</sub>
+</p>
 
 </div>
 
 <!-- 
     You're thorough enough to read the source code!
     That's the kind of attention to detail I bring to every project.
-    - Shalini 💫
+    - Suryansh 💫
 -->
