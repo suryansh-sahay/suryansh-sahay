@@ -19,40 +19,44 @@
 
 <table>
 <tr>
-<td width="40%">
+<td width="30%">
   
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
 </td>
 
-<td width="40%">
+<td width="30%">
 
 ```javascript
-const shalini = {
-    pronouns: "his/him",
-    location: "India",
-    education: "IIIT Vadodara",
-    passion: "Building innovative solutions",
+const suryansh = {
+    pronouns: "he/him",
+    location: "India 🇮🇳",
+    education: "B.Tech in CSE @ IIIT Vadodara (2026)",
+    passion: "Crafting full-stack solutions & solving real-world problems",
     
     currentlyWorking: [
-        "Advanced Machine Learning Algorithms",
-        "Full Stack Development",
-        "System Design & Architecture",
+        "Problem-Solving (230+ Qs on LeetCode & GFG)",
+        "Real-time Collaboration Platform (DocsG)",
+        "Campus Grievance System (InsConnect)",
+        "System Design & Scalable Architectures"
     ],
 
     getDreamJob: () => {
-        return "Building products that make developers' lives easier";
+        return "Building impactful products that empower developers 🚀";
     },
     
     askMeAbout: [
-        "MERN Stack Development",
-        "System Design Patterns", 
-        "Competitive Programming",
-        "Why recursion is beautiful",
-        "Machine Learning & AI"
+        "MERN & Next.js Development",
+        "Problem-Solving",
+        "Docker · Kubernetes · Grafana"
     ],
 
+    links: {
+        github: "https://github.com/suryansh-sahay",
+        linkedin: "https://www.linkedin.com/in/suryansh-sahay-2a426a27a/"
+    }
 };
+
 ```
 </td>
 
@@ -63,20 +67,21 @@ const shalini = {
 
 ## What I'm Currently Working On
 
-- **Advanced Machine Learning** - Exploring cutting-edge ML algorithms and their real-world applications
-- **Full-Stack Development** - Building scalable web applications with modern frameworks
-- **System Design** - Mastering distributed systems and scalable architecture patterns
-
+- 🧩 **Problem-Solving** — 230+ questions solved on LeetCode & GeeksforGeeks, sharpening Problem-Solving skills through DSA
+- 📑 **DocsG** — Real-time collaborative editor (MERN + Socket.io + JWT + Tailwind)  
+- 🏫 **InsConnect** — Student grievance platform (Next.js + Node + MongoDB) 
+- 🌐 **Full-Stack Development** — Crafting modern web apps with React, Next.js and Express
+  
 ---
 
-## Competitive Programming Achievements
+## Achievements
 
 <div align="center">
 
 | Platform | Profile | Rating |
 |----------|---------|--------|
-| **LeetCode** | [psshalini](https://leetcode.com/u/psshalini/) | **1756** |
-| **Codeforces** | [Shalini_palla](https://codeforces.com/profile/Shalini_palla) | **1380** |
+| **LeetCode** | [i8isurya](https://leetcode.com/u/i8isurya/) | **1479** |
+| **GeeksforGeeks** | [dark1995ks38](https://www.geeksforgeeks.org/user/dark1995ks38/) | **1520** |
 
 </div>
 
@@ -85,21 +90,24 @@ const shalini = {
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalinipalla005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=shalinipalla005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+  
+  <!-- GitHub Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=suryansh-sahay&show_icons=true&theme=tokyonight&hide_border=true" 
+    alt="GitHub Stats" 
+  />
+  
+  <!-- GitHub Streaks -->
+  <img 
+    src="https://streak-stats.demolab.com?user=suryansh-sahay&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+  />
 
----
-
-## Portfolio
-
-<div align="center">
-
-<a href="https://my-portfolio-alpha-mauve-31.vercel.app/">
-<img src="https://img.shields.io/badge/CREATIVE_PORTFOLIO-Explore_My_Universe-FF6B6B?style=for-the-badge&logo=safari&logoColor=white&labelColor=2C3E50&logoWidth=20"/>
-</a>
-
-<sub>*"My portfolio is not just a website, it's an experience. Dive in to see how I blend technology with creativity!"*</sub>
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh-sahay&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages" 
+  />
 
 </div>
 
