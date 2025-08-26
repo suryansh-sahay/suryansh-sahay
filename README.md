@@ -133,10 +133,12 @@ const suryansh = {
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryansh-sahay/suryansh-sahay/output/github-contribution-grid-snake-dark.svg?timestamp=1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryansh-sahay/suryansh-sahay/output/github-contribution-grid-snake.svg?timestamp=1" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/suryansh-sahay/suryansh-sahay/output/github-contribution-grid-snake.svg?timestamp=1" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryansh-sahay/suryansh-sahay/output/github-contribution-grid-snake-dark.svg?timestamp=123" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryansh-sahay/suyansh-sahay/output/github-contribution-grid-snake.svg?timestamp=123" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/suryansh-sahay/suryansh-sahay/output/github-contribution-grid-snake.svg?timestamp=123" />
 </picture>
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,24&height=120&section=footer&text=%20Thanks%20for%20visiting!&fontSize=24&fontColor=fff&fontAlignY=65&desc=%20Drop%20a%20⭐%20if%20you%20like%20my%20profile!&descSize=16&descAlignY=85" />
