@@ -134,7 +134,7 @@ const suryansh = {
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryansh-sahay/suryansh-sahay/output/github-contribution-grid-snake-dark.svg?timestamp=123" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryansh-sahay/suyansh-sahay/output/github-contribution-grid-snake.svg?timestamp=123" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryansh-sahay/suryansh-sahay/output/github-contribution-grid-snake.svg?timestamp=123" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/suryansh-sahay/suryansh-sahay/output/github-contribution-grid-snake.svg?timestamp=123" />
 </picture>
 
