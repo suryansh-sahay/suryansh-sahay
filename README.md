@@ -8,24 +8,30 @@
 
   <!-- Typing SVG Showing Your Projects, Problem-Solving, and Academic Info -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=500&color=00FF41&center=true&vCenter=true&width=800&height=130&multiline=true&lines=%3E+Building+DocsG+%7C+InsConnect+%7C+BuyWise...;%3E+B.Tech+CSE+IIIT+Vadodara+’26...;%3E+Problem-Solving+Activated...;%3E+Crafting+dev+tools+that+spark+joy+%F0%9F%9A%80"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=500&color=00FF41&center=true&vCenter=true&width=800&height=130&multiline=true&lines=%3E+Building+DocsG+%7C+InsConnect+%7C+BuyWise...;%3E+B.Tech+CSE+IIIT+Vadodara+2026...;%3E+Problem-Solving+Activated...;%3E+Crafting+dev+tools+that+spark+joy+%F0%9F%9A%80"
     alt="What I Do"
   />
 
 </div>
 
-
 ---
+
 
 <table>
 <tr>
+<td width="40%">
+  
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="450">
+
+</td>
+
 <td width="50%">
 
 ```javascript
 const shalini = {
-    pronouns: "she/her",
+    pronouns: "his/him",
     location: "India",
-    education: "IIT Ropar",
+    education: "IIIT Vadodara",
     passion: "Building innovative solutions",
     
     currentlyWorking: [
@@ -48,14 +54,8 @@ const shalini = {
 
 };
 ```
-
-
 </td>
-<td width="50%">
-  
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
 
-</td>
 </tr>
 </table>
 
