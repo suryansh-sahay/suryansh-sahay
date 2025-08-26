@@ -91,10 +91,9 @@ const suryansh = {
   />
   
   <!-- GitHub Streaks -->
-  <img 
-    src="https://streak-stats.demolab.com?user=suryansh-sahay&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
-  />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=suryansh-sahay&theme=tokyonight&hide_border=true)
+
+
 
   <!-- Top Languages -->
   <img 
