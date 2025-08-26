@@ -1,6 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%3E+Initializing+developer...;%3E+Loading+IIT_Ropar_student.exe;%3E+Compiling+creativity.cpp;%3E+Ready+to+innovate+%F0%9F%9A%80" alt="Matrix Typing"/>
+  <!-- Capsule-Render Animated Banner -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Suryansh+Sahay&fontSize=50"
+    alt="Suryansh Sahay"
+  />
+
+  <!-- Typing SVG Showing Your Projects, Problem-Solving, and Academic Info -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=500&color=00FF41&center=true&vCenter=true&width=800&height=130&multiline=true&lines=%3E+Building+DocsG+%7C+InsConnect+%7C+BuyWise...;%3E+B.Tech+CSE+IIIT+Vadodara+’26...;%3E+Problem-Solving+Activated...;%3E+Crafting+dev+tools+that+spark+joy+%F0%9F%9A%80"
+    alt="What I Do"
+  />
+
+</div>
+
 
 ---
 
@@ -35,6 +48,7 @@ const shalini = {
 
 };
 ```
+
 
 </td>
 <td width="50%">
