@@ -60,7 +60,7 @@ const suryansh = {
 
 ## What I'm Currently Working On
 
-- 🧩 **Problem-Solving** — 230+ questions solved on LeetCode & GeeksforGeeks, sharpening Problem-Solving skills through DSA
+**Problem-Solving** — 230+ questions solved on LeetCode & GeeksforGeeks, sharpening Problem-Solving skills through DSA
 - 📑 **DocsG** — Real-time collaborative editor (MERN + Socket.io + JWT + Tailwind)  
 - 🏫 **InsConnect** — Student grievance platform (Next.js + Node + MongoDB) 
 - 🌐 **Full-Stack Development** — Crafting modern web apps with React, Next.js and Express
