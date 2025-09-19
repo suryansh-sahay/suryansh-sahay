@@ -73,7 +73,7 @@ const suryansh = {
 
 | Platform | Profile | Rating |
 |----------|---------|--------|
-| **LeetCode** | [i8isurya](https://leetcode.com/u/i8isurya/) | **1530** |
+| **LeetCode** | [i8isurya](https://leetcode.com/u/i8isurya/) | **1684** |
 | **GeeksforGeeks** | [dark1995ks38](https://www.geeksforgeeks.org/user/dark1995ks38/) | **1520** |
 
 </div>
