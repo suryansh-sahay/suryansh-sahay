@@ -40,7 +40,7 @@ const suryansh = {
     ],
 
     getDreamJob: () => {
-        return "Building impactful products that empower developers 🚀";
+        return "Building impactful products that empower developers";
     },
     
     askMeAbout: [
