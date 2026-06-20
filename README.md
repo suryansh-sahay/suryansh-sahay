@@ -34,7 +34,7 @@ const suryansh = {
     passion: "Crafting full-stack solutions & solving real-world problems",
     
     currentlyWorking: [
-        "Problem-Solving (230+ Qs on LeetCode & GFG)",
+        "Problem-Solving (600+ Qs on LeetCode & GFG)",
         "Real-time Collaboration Platform (DocsG)",
         "Campus Grievance System (InsConnect)"
     ],
@@ -45,7 +45,7 @@ const suryansh = {
     
     askMeAbout: [
         "MERN & Next.js Development",
-        "Problem-Solving",
+        "Problem-Solving, Critical Thinking",
         "Docker · Kubernetes · Grafana"
     ]
 };
