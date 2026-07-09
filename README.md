@@ -16,48 +16,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="30%">
-  
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-
-</td>
-
-<td width="30%">
-
-```javascript
-const suryansh = {
-    pronouns: "he/him",
-    location: "India 🇮🇳",
-    education: "B.Tech in CSE @ IIIT Vadodara (2026)",
-    passion: "Crafting full-stack solutions & solving real-world problems",
-    
-    currentlyWorking: [
-        "Problem-Solving (600+ Qs on LeetCode & GFG)",
-        "Real-time Collaboration Platform (DocsG)",
-        "Campus Grievance System (InsConnect)"
-    ],
-
-    getDreamJob: () => {
-        return "Building impactful products that empower developers";
-    },
-    
-    askMeAbout: [
-        "MERN & Next.js Development",
-        "Problem-Solving, Critical Thinking",
-        "Docker · Kubernetes · Grafana"
-    ]
-};
-
-```
-</td>
-
-</tr>
-</table>
-
----
-
 ## What I'm Currently Working On
 
 **Problem-Solving** — 600+ questions solved on LeetCode & GeeksforGeeks, sharpening Problem-Solving skills through DSA
