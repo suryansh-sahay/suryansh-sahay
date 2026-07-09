@@ -21,7 +21,7 @@
 **Problem-Solving** — 600+ questions solved on LeetCode & GeeksforGeeks, sharpening Problem-Solving skills through DSA
 - **DocsG** — Real-time collaborative editor (MERN + Socket.io + JWT + Tailwind)  
 - **InsConnect** — Student grievance platform (Next.js + Node + MongoDB) 
-- **Full-Stack Development** — Crafting modern web apps with React, Next.js and Express
+- **Full-Stack Development** — Crafting modern web apps with React, Next.js, Express, MongoDB, SQL, Docker and GCP
   
 ---
 
