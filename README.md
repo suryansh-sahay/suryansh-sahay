@@ -74,6 +74,7 @@ const suryansh = {
 | Platform | Profile | Rating |
 |----------|---------|--------|
 | **LeetCode** | [i8isurya](https://leetcode.com/u/i8isurya/) | **1982 (Knight)** |
+| **CodeChef** | [i8isurya](https://www.codechef.com/users/i8isurya/) | **1676 (3⭐)** |
 | **GeeksforGeeks** | [dark1995ks38](https://www.geeksforgeeks.org/user/dark1995ks38/) | **1520** |
 
 </div>
