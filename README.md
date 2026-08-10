@@ -82,18 +82,6 @@
 
 </div>
 
----
-
-## Developer Philosophy
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" />
-</div>
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Code.+Create.+Innovate.;Debugging+is+where+magic+happens.;Problem+solving+fuels+my+journey.;Building+tools+that+empower+developers." alt="Typing SVG" />
-</div>
 
 ---
 <p align="center">
