@@ -16,12 +16,12 @@
 
 ---
 
-## What I'm Currently Working On
+## What I've worked On
 
-**Problem-Solving** — 700+ questions solved on LeetCode & GeeksforGeeks, sharpening Problem-Solving skills through DSA
-- **DocsG** — Real-time collaborative editor (MERN + Socket.io + JWT + Tailwind)  
-- **InsConnect** — Student grievance platform (Next.js + Node + MongoDB) 
-- **Full-Stack Development** — Crafting modern web apps with React, Next.js, Express, MongoDB, SQL, Docker and GCP
+**Problem-Solving** — 800+ questions solved on LeetCode & CodeChef, improving Problem-Solving skills through DSA
+- **GenAI Resume-JD Analyser** — Resume and job description analysis platform (MERN + Gemini 3.6 API + Zod + Redis + CI/CD) 
+- **Document Editing Platform** — Real-time collaborative editor (MERN + Socket.io + JWT + Tailwind)  
+- **Full-Stack Development** — Crafting modern web apps with React, Next.js, Express, MongoDB, Redis, SQL, Docker and GCP
   
 ---
 
