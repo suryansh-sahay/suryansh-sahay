@@ -8,7 +8,7 @@
 
   <!-- Typing SVG Showing Your Projects, Problem-Solving, and Academic Info -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=130&multiline=true&lines=%3E+Building+GenAI Resume-JD Analyser+%7C+Document Editing Platform+%7C+NextShop...;%3E+B.Tech+CSE+IIIT+Vadodara+2026...;%3E+Problem-Solving+Activated...;%3E+Crafting+dev+tools+that+spark+joy"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=130&multiline=true&lines=%3E+Building+GenAI-ResumeJD-Analyser+%7C+Document-Editing-Platform...;%3E+B.Tech+CSE+IIIT+Vadodara+2026...;%3E+Problem-Solving+Activated...;%3E+Crafting+dev+tools+that+spark+joy"
     alt="What I Do"
   />
 
